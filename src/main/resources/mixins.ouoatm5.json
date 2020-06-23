@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.mmis1000.ouoatm5.mixin",
+  "mixins": ["ATMBlockBreak"],
+  "refmap": "ouoatm5.refmap.json",
+  "client": [],
+  "server": []
+}
